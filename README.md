@@ -99,7 +99,7 @@ The order_reviews table stores customer feedback and ratings after order deliver
 
 Detailed project documentation, data model, table definitions, relationships, loading process, and SQL analysis can be found here:
 
-**Notion Documentation:** Null
+**Notion Documentation:** [Olist E-Commerce SQL Learning Database](https://app.notion.com/p/Olist-E-Commerce-SQL-Learning-Database-38918e34e82280b4bd06ee58a8a8d5f9?source=copy_link)
 
 ## Technologies Used
 
