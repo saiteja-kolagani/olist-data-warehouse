@@ -16,7 +16,6 @@ SELECT * FROM ECOMMERCE.SELLERS;
 --OLIST Orders Tracking Details
 SELECT * FROM ECOMMERCE.ORDERS;
 
-
 --Customers' Ordered Items' Details: 
 SELECT * FROM ECOMMERCE.ORDER_ITEMS;
 
@@ -25,3 +24,6 @@ SELECT * FROM ECOMMERCE.ORDER_PAYMENTS;
 
 --Order Reviews' Details:
 SELECT * FROM ECOMMERCE.ORDER_REVIEWS;
+
+--All available Tables List:
+SELECT TABLE_NAME FROM INFORMATION_SCHEMA.tables WHERE table_schema = 'ecommerce' order by table_name;
